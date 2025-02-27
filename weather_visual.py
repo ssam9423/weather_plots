@@ -62,4 +62,3 @@ month_box.set_title('Total Rainfall (inches) by Month')
 month_box.set(xlabel='Month', ylabel='Rainfall (inches)')
 plt.savefig(FOLDER + 'Rainfall by Month' + '.png', dpi=300)
 plt.show()
-
